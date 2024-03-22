@@ -41,3 +41,7 @@ testem.log
 .DS_Store
 Thumbs.db
 .angular
+/.vs/AngularBootCampHomeworksGamalielMendez/v17
+/.vs/AngularBootCampHomeworksGamalielMendez/config
+/.vscode
+.vs
