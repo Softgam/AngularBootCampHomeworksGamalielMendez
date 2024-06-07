@@ -40,9 +40,20 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+.vs
 .angular
 /.vs/AngularBootCampHomeworksGamalielMendez/v17
 /.vs/AngularBootCampHomeworksGamalielMendez/config
 /.vscode
 .vs
+/.vs/*
+/.vscode
+/.vs/AngularBootCampHomeworksGamalielMendez/FileContentIndex/259fa6b1-dc60-4163-8820-1cc3298cffa6.vsidx
+/.vs/AngularBootCampHomeworksGamalielMendez/FileContentIndex/74c7fc28-2dc3-4da9-9b44-e4ea49dfe69a.vsidx
 /.vs/slnx.sqlite
+/.vs/slnx.sqlite
+/.vs/AngularBootCampHomeworksGamalielMendez/FileContentIndex/74c7fc28-2dc3-4da9-9b44-e4ea49dfe69a.vsidx
+/.vs/AngularBootCampHomeworksGamalielMendez/FileContentIndex/259fa6b1-dc60-4163-8820-1cc3298cffa6.vsidx
+/.vs/AngularBootCampHomeworksGamalielMendez/FileContentIndex
+/.vs/AngularBootCampHomeworksGamalielMendez/config
+/.vs/AngularBootCampHomeworksGamalielMendez/v17/.wsuo
