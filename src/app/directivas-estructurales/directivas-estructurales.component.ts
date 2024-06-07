@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrl: './directivas-estructurales.component.scss'
 })
 export class DirectivasEstructuralesComponent {
-  arrayOfLetters: Array<string> = ['A', 'B', 'C'];
+  Letters: Array<string> = ['A', 'B', 'C'];
 }
