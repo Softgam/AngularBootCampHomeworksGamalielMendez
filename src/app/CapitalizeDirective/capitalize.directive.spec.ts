@@ -1,6 +1,6 @@
-import { CapitalizeDirectiveDirective } from './capitalize-directive.directive';
+import { CapitalizeDirective } from './capitalize.directive';
 
-describe('CapitalizeDirectiveDirective', () => {
+describe('CapitalizeDirective', () => {
   it('should create an instance', () => {
     const directive = new CapitalizeDirectiveDirective();
     expect(directive).toBeTruthy();

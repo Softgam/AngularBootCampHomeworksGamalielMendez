@@ -1,18 +1,18 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { CustomDirectivaComponent } from './custom-directiva.component';
+import { CustomDirectiveComponent } from './custom-directive.component';
 
 describe('CustomDirectivaComponent', () => {
-  let component: CustomDirectivaComponent;
-  let fixture: ComponentFixture<CustomDirectivaComponent>;
+  let component: CustomDirectiveComponent;
+  let fixture: ComponentFixture<CustomDirectiveComponent>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [CustomDirectivaComponent]
+      declarations: [CustomDirectiveComponent]
     })
     .compileComponents();
     
-    fixture = TestBed.createComponent(CustomDirectivaComponent);
+    fixture = TestBed.createComponent(CustomDirectiveComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });
