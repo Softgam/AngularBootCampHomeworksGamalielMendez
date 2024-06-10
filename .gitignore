@@ -42,6 +42,13 @@ testem.log
 Thumbs.db
 .vs
 .angular
+
+*.config
+*.vsidx
+*.lock
+*.wsuo
+/.vs/slnx.sqlite
+/.vscode/settings.json
 /.vs/*
 /.vscode
 /.vs/AngularBootCampHomeworksGamalielMendez/FileContentIndex/259fa6b1-dc60-4163-8820-1cc3298cffa6.vsidx
@@ -53,3 +60,4 @@ Thumbs.db
 /.vs/AngularBootCampHomeworksGamalielMendez/FileContentIndex
 /.vs/AngularBootCampHomeworksGamalielMendez/config
 /.vs/AngularBootCampHomeworksGamalielMendez/v17/.wsuo
+
