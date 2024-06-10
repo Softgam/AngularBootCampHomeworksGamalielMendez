@@ -3,16 +3,26 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+
+import { ProviderInjectableModule } from './provider-injectable/provider-injectable.module';
+import { RootInjectable1Module } from './root-injectable1/root-injectable1.module';
+import { RootInjectable2Module } from './root-injectable2/root-injectable2.module';
+
+
 import { DirectivasAtributosComponent } from './directivas-atributos/directivas-atributos.component';
+
 
 @NgModule({
   declarations: [
     AppComponent,
-    DirectivasAtributosComponent
+    DirectivasAtributosComponent,
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    ProviderInjectableModule,
+    RootInjectable1Module,
+    RootInjectable2Module,
   ],
   providers: [],
   bootstrap: [AppComponent]
