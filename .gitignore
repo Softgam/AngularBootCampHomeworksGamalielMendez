@@ -40,10 +40,13 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+.vs
 .angular
+
 /.vs/AngularBootCampHomeworksGamalielMendez/config
 /.vs/AngularBootCampHomeworksGamalielMendez/FileContentIndex
 /.vs/AngularBootCampHomeworksGamalielMendez/v17
 /.vscode
 /.vs/slnx.sqlite
 /.vs/*
+
